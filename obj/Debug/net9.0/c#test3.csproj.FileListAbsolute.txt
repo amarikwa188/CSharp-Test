@@ -1,0 +1,15 @@
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\c#test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\c#test3.AssemblyInfoInputs.cache
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\c#test3.AssemblyInfo.cs
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\c#test3.csproj.CoreCompileInputs.cache
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\c#test3.sourcelink.json
+C:\Users\DRPAM\Documents\c#test3\bin\Debug\net9.0\c#test3.exe
+C:\Users\DRPAM\Documents\c#test3\bin\Debug\net9.0\c#test3.deps.json
+C:\Users\DRPAM\Documents\c#test3\bin\Debug\net9.0\c#test3.runtimeconfig.json
+C:\Users\DRPAM\Documents\c#test3\bin\Debug\net9.0\c#test3.dll
+C:\Users\DRPAM\Documents\c#test3\bin\Debug\net9.0\c#test3.pdb
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\c#test3.dll
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\refint\c#test3.dll
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\c#test3.pdb
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\c#test3.genruntimeconfig.cache
+C:\Users\DRPAM\Documents\c#test3\obj\Debug\net9.0\ref\c#test3.dll
