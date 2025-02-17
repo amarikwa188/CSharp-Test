@@ -2,11 +2,11 @@
 
 Console.WriteLine("===== Office File Organizer =====");
 
-Console.Write("Enter your name:\n>");
+Console.Write("Enter your name: ");
 name = Console.ReadLine();
-Console.Write("Enter  your student ID:\n>");
+Console.Write("Enter  your student ID: ");
 id  = Console.ReadLine();
-Console.Write("Enter the directory path to organize:\n>");
+Console.Write("Enter the directory name to organize: ");
 dirname = Console.ReadLine();
 
 string curpath = Directory.GetCurrentDirectory() + "\\" + dirname;
